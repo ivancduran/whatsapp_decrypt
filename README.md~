@@ -8,20 +8,21 @@ Linux and Mac already
 -----------------------
 
 
-**How to run:**
+How to run:
+======
 
 sh decrypt.sh "filename.db"
 
 
-**Example:**
+Example:
 
 sh decrypt.sh msgstore-2013-04-16.1.db
 
 
-Changelog:
-======
+**Changelog:**
 
-**V 1.0**
+V 1.0
+======
 - Export txt file.
 - Export sqlite file.
 - Create Dir.
